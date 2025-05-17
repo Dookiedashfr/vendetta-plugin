@@ -1,0 +1,8 @@
+{
+  "name": "Regulus Speak",
+  "description": "Transforms your message into Regulus Corneas' speech style.",
+  "authors": [{ "name": "minty" }],
+  "version": "1.0.0",
+  "source": "https://github.com/Dookiedashfr/vendetta-plugins/tree/main/regulusSpeak",
+  "id": "regulus-speak"
+}
