@@ -1,0 +1,9 @@
+{
+  "name": "RegulusChatCommand",
+  "description": "Changes your message to Regulus style only when you start with /regulus",
+  "version": "1.1.0",
+  "author": "YourName",
+  "vendetta": {
+    "main": "index.js"
+  }
+}
